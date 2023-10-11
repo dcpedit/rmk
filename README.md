@@ -20,7 +20,7 @@ The installation of the stab wire is a bit tricky since it needs to go under the
 
 First, snap the stabalizer housing into the PCB without the stem or wire assembled.
 
-<img width="600" src="https://github.com/dcpedit/rmk/assets/800930/8ff6064e-7360-46f8-938c-010b6855823e" />
+<img width="600" src="https://github.com/dcpedit/rmk/assets/800930/75e9006a-0256-41cb-8c44-b1134b49b6fd" />
 
 Next, insert the stems into the housing.
 
@@ -28,6 +28,6 @@ Next, insert the stems into the housing.
 
 Finally, you'll need to squeeze the wire in between the PCB and plastic "clip" so that it can be pushed into place.  You may need to lift the clip with a flat tool to create a gap, and apply a bit of force to get the wire in place.
 
-<img width="600" src="https://github.com/dcpedit/rmk/assets/800930/75e9006a-0256-41cb-8c44-b1134b49b6fd" />
+<img width="600" src="https://github.com/dcpedit/rmk/assets/800930/8ff6064e-7360-46f8-938c-010b6855823e" />
 
 
