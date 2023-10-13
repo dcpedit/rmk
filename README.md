@@ -14,8 +14,11 @@ The switch footprints are from this project: https://github.com/luke-schutt/Pi5K
 
 And finally, the schematic and wiring for the rp2040 was taken from this project: https://github.com/Sleepdealr/RP2040-designguide
 
+## Layout and pics
+
 [Keyboard Layout Editor (KLE) link](http://www.keyboard-layout-editor.com/#/gists/66ec27985efc342d9c4acf2d43243eb4)
 
+[Image gallery](https://imgur.com/a/in2jYlU)
 ## Stabalizer installation for Choc v2 switches
 
 The installation of the stab wire is a bit tricky since it needs to go under the PCB.  This is the procedure I followed.
